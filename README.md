@@ -5,9 +5,9 @@ Clone de la aplicación del pajarito azul
   - This project will include data modeling, backend logic and front end the Twitter
 
 ## 📋 Requirements
-    [ ] Data modeling
-    [ ] Create New User 
-    [ ] Create Login Auth0
+  - [ ] Data modeling
+  - [ ] Create New User 
+  - [ ] Create Login Auth0
 
 ## Upgrades
   - [ ] Edit twitte
