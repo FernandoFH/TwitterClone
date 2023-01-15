@@ -32,4 +32,6 @@ Clone de la aplicación del pajarito azul
   - [ ] Pipeline CI/CD
 #### Resouces 
   - CodelyTV - Desing system Twitter: [video](https://www.youtube.com/watch?v=6o0usvW5bqY)
+----- 
 
+https://www.youtube.com/watch?v=RF-A7lBUnmY&list=PLFRKQL-FSrHLcpH-o5zzUMDRBjD5yEyLO
