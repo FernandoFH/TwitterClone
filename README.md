@@ -1,5 +1,5 @@
 ### Twitter Full Stack clone
-Clone de la aplicación del pajarito azul 
+Clon de la aplicación del pajarito azul 
 
 ## ✍🏻 Description
   - This project will include data modeling, backend logic and front end the Twitter
